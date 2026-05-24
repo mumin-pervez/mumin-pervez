@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Mumin Pervez 👋
 
 ## 🚀 Project Coordinator | Healthcare IT Professional | Java Backend Developer
@@ -145,4 +144,3 @@ To combine my real-world healthcare software implementation experience with stro
 ---
 
 ⭐ Always learning, improving, and building healthcare technology solutions.
-```
